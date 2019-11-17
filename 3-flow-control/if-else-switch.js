@@ -16,6 +16,7 @@ if (option === 'here') {
     console.log('Where am I?');
 }
 
+// 2. switch-case
 option = 'there';
 
 switch (option) {
