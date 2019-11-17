@@ -17,3 +17,4 @@ function sayHello(name){
 };
 
 console.log(sayHello('Anub'));//'Anub' is the argument to parameter name
+console.log(typeof sayHello);
